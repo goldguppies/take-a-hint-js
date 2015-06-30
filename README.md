@@ -1,10 +1,7 @@
 # take-a-hint-js
 Sarcastic linting tool 
 
-
-
-
-######Reporting with Grunt
+####Reporting with Grunt
 
 ```npm install grunt-contrib-jshint --save-dev```
 
